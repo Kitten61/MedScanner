@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorMain">#000000</color>
+    <color name="colorMainDark">#000000</color>
+
+    <color name="colorOr">#FF7F50</color>
+    <color name="colorOrDark">#FF6347</color>
+    <color name="colorBl">#3c5f96</color>
+    <color name="colorBlDark">#3c5196</color>
+    <color name="colorPu">#715091</color>
+    <color name="colorPuDark">#5c3d7a</color>
+    <color name="colorGr">#367053</color>
+    <color name="colorGrDark">#2b5942</color>
+
+    <color name="nav_text_color">#666666</color>
+
+
+
+    <color name="colorRaz1">#3c5196</color>
+    <color name="colorRaz2">#3c5f96</color>
+    <color name="colorRaz3">#3c6696</color>
+    <color name="colorRaz4">#3c7296</color>
+    <color name="colorRaz5">#3c7b96</color>
+    <color name="colorRaz6">#3c8696</color>
+    <color name="colorRaz7">#3c9296</color>
+    <color name="colorRaz8">#3c968c</color>
+</resources>

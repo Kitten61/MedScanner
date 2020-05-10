@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654110562742",
+    "firebase_url": "https://medscanner-da369.firebaseio.com",
+    "project_id": "medscanner-da369",
+    "storage_bucket": "medscanner-da369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654110562742:android:9f2112ff6620829e90c917",
+        "android_client_info": {
+          "package_name": "com.test.medscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654110562742-5eim8d3kqbjv5j2mh5jbhugd4vt2grnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah45WUKHkfqc5OLuBqs8pH_rMmaEehB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654110562742-5eim8d3kqbjv5j2mh5jbhugd4vt2grnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654110562742-4nvkprb7pg4qn70404qtb6uke6pgvrub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.MedScanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

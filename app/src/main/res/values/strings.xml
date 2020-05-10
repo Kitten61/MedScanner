@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MedScanner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MedScanner</string>
+    <string name="nav_header_mail">medscanner@yandex.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Избранное</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_notes">Заметки</string>
+    <string name="menu_pharmacies">Карта</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_aboutApp">О приложении</string>
+
+    <string name="pop_1">УЗИ сердца</string>
+    <string name="pop_2">МРТ головного мозга</string>
+    <string name="pop_3">УЗИ сосудов нижних конечностей</string>
+    <string name="pop_4">маммография</string>
+    <string name="pop_5">компьютерная томография сустава</string>
+    <string name="load_notes_error">Ошибка при загрузке</string>
+    <string name="add_note_error">Ошибка при добавлении заметки</string>
+    <string name="delete_selected">Удалить выбранные</string>
+    <string name="delete_notes_error">Ошибка при удалении заметки</string>
+    <string name="add_note_dialog">Добавление заметки</string>
+    <string name="load_services_error">Ошибка при загрузке данных</string>
+</resources>

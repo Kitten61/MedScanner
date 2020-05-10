@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.test.medscanner.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_clinicFragment"
+            app:destination="@id/clinicFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.test.medscanner.SearchFragment"
+        android:label="@string/menu_search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_nav_search_to_clinicFragment"
+            app:destination="@id/clinicFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_notes"
+        android:name="com.test.medscanner.NotesFragment"
+        android:label="@string/menu_notes"
+        tools:layout="@layout/fragment_notes" />
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.test.medscanner.MapFragment"
+        android:label="@string/menu_pharmacies"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.test.medscanner.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.test.medscanner.AboutFragment"
+        android:label="@string/menu_aboutApp"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/clinicFragment"
+        android:name="com.test.medscanner.ClinicFragment"/>
+</navigation>
